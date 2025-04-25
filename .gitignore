@@ -1,0 +1,53 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external volumes
+.Spotlight-V100
+.Trashes
+
+# macOS specific metadata
+Icon?
+ehthumbs.db
+Desktop.ini
+
+# Node (if using node projects)
+node_modules/
+npm-debug.log
+yarn-error.log
+.pnpm-debug.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Logs
+*.log
+
+# Compiled
+*.o
+*.so
+*.class
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Others
+.env
+*.swp
+*.bak
+*.tmp
