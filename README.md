@@ -12,6 +12,7 @@ Author: [not_that_NDA](https://linktr.ee/notthatnda)
 
 ![IMG_5867 Medium](https://github.com/user-attachments/assets/8ccf87b0-037c-49a5-8aca-87e315b44e93)
 ![IMG_5864 Medium](https://github.com/user-attachments/assets/305c81a6-6e60-4a0e-8d8f-7ee8274563ff)
+
 _Note: in the images I am using the top row from the DygmaWell, did not yet tested the top_DygmaClaw design._
 
 # DygmaWell
