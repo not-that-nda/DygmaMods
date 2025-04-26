@@ -21,8 +21,8 @@ Files to print with 4 keys only version
 - Top (number) row key:
   - 4_top_DygmaClaw.stl
 
-Preview of all files:
+## Preview of all files:
 ![image](https://github.com/user-attachments/assets/f540c1c8-055b-407c-8df0-e52816ca1108)
 
-Intendedorientations for FDM printing (flat on the keycap):
+## Intendedorientations for FDM printing (flat on the keycap):
 ![image](https://github.com/user-attachments/assets/92f5a37f-063e-4916-8071-6dfe2e05b5f4)
